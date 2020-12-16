@@ -6,3 +6,5 @@
 > Más cambios para la git demo pull
 
 > Nueva actualización de la rama nueva
+
+> Mi conflicto de fusión de código
