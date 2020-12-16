@@ -2,4 +2,5 @@ print ("Prueba repo")
 
 print ("Git demo pull")
 
-print ("Mi cambio local")
+def hi_there ():
+  print ("Actualización de función con conflicto de fusión")
